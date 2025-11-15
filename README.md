@@ -6,10 +6,12 @@
 
 <p align="center">
   <a href="https://sakthivelan.pythonanywhere.com/" target="_blank">
-    <img src="https://sakthivelan.pythonanywhere.com/portfolio.png" 
-         alt="Sakthi Velan Portfolio Preview" width="80%" style="border-radius:15px; box-shadow:0 0 10px rgba(0,0,0,0.2);" />
+    <img src="https://raw.githubusercontent.com/sakthivelan04/Django-Portfolio/main/portfolio.png" 
+         alt="Sakthi Velan Portfolio Preview" width="80%" 
+         style="border-radius:15px; box-shadow:0 0 10px rgba(0,0,0,0.2);" />
   </a>
 </p>
+
 
 
 ---
